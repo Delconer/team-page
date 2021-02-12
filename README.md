@@ -6,11 +6,11 @@
 
 
 ## Demo
-    </a>  </h3>
-    <span> El proyecto puede ser visto en funcionamiento [aquí](https://team-page-delconer.netlify.app/ "aquí") </span>
+   
+ El proyecto puede ser visto en funcionamiento [aquí](https://team-page-delconer.netlify.app/ "aquí")
 
-[![](https://raw.githubusercontent.com/Delconer/404-Page/main/img/404.png)](https://raw.githubusercontent.com/Delconer/404-Page/main/img/404.png)
-</div>
+[![](https://raw.githubusercontent.com/Delconer/team-page/main/img/team-page.png)](https://raw.githubusercontent.com/Delconer/team-page/main/img/team-page.png)
+
 
 ### Desarrollado usando:
 - HTML 5
